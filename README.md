@@ -1,4 +1,5 @@
 ![ghost](https://github.com/user-attachments/assets/b8541344-1a33-40d7-97ee-9c8f590c9432)
+-interface do programa
 
 # GhostRecon
 
@@ -31,6 +32,11 @@ GhostRecon é uma ferramenta de pentest multifuncional, desenvolvida em Python, 
 
 ### 🤖 Terminal de IA
 - Permite interagir com um **modelo de linguagem** para gerar respostas e análises contextuais.
+
+
+  ![ia](https://github.com/user-attachments/assets/bdec16d5-8cc2-4e27-b5fe-e3b10c067adf)
+
+  
 
 ### 📄 Criação de Templates
 - Gera templates para documentos **DOCX** e planilhas **XLSX**, facilitando a criação de relatórios personalizados.
@@ -65,7 +71,7 @@ python main.py
 ```
 
 ## 📜 Licença
-Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+Este projeto é distribuído sob a licença GNU General Public License v3.0. Veja o arquivo `LICENSE` para mais detalhes.
 
 ---
 
