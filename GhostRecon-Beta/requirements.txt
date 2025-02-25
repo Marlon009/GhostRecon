@@ -1,0 +1,11 @@
+PyPDF2
+python-docx
+openpyxl
+transformers
+beautifulsoup4
+validators
+requests
+pandas
+sqlalchemy
+reportlab
+matplotlib
