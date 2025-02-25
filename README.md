@@ -5,7 +5,7 @@
 
 ## Descrição
 
-GhostRecon é uma ferramenta de pentest multifuncional, desenvolvida em Python, que integra diversas funcionalidades de análise e processamento de dados com inteligência artificial. Projetada para auxiliar profissionais de segurança e entusiastas em tarefas de pentest, a ferramenta oferece capacidades de processamento de arquivos, scraping de websites, análise de bancos de dados, testes de SQL Injection e geração de relatórios inteligentes.
+GhostRecon é uma ferramenta de pentest multifuncional, inspirado no meu outro programa DataScan, mas agora voltado para pentesters, foi desenvolvida em Python e que integra diversas funcionalidades de análise e processamento de dados com inteligência artificial. Projetada para auxiliar profissionais de segurança e entusiastas em tarefas de pentest, a ferramenta oferece capacidades de processamento de arquivos, scraping de websites, análise de bancos de dados, testes de SQL Injection e geração de relatórios inteligentes.
 
 ## Recursos Principais
 
